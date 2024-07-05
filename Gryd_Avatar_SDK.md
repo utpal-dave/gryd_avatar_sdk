@@ -16,7 +16,6 @@ Can be used to add dave custom webiew iframe. Which will accept text query , glb
 
 ## Properties
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
 |  Name              |Type                          |  Description              |Example                         |
 |----------------|----------------|-------------------------------|-----------------------------|
