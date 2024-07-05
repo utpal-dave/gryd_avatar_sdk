@@ -3,12 +3,12 @@ Can be used to add dave custom webiew iframe. Which will accept text query , glb
 
 
 ## Dependencies
-**npm install react@18.3.1 react-dom@18.3.1**
-**npm install gryd_avatar_sdk**
-**npm install**
+**npm install react@18.3.1 react-dom@18.3.1**<br>
+**npm install gryd_avatar_sdk**<br>
+**npm install**<br>
 
 ## Usuage
-**import WebView from 'gryd_avatar_sdk**
+**import WebView from 'gryd_avatar_sdk'**
 
 
 ```<WebView daveStyle={dStyle} avatarHeight='300px !important' avatarWidth = 'auto' textQuery='Hello I am from test iframe' loadGlb = "load_glb.url"/>```
