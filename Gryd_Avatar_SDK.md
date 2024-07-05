@@ -20,11 +20,11 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |  Name              |Type                          |  Description              |Example                         |
 |----------------|----------------|-------------------------------|-----------------------------|
-|daveStyle|`Object`            |`'CSS styles can be passed in this prop as an object'`            |'{"display":  "flex","flex-direction":  "column","align-items":  "center","justify-content":  "center","position":  "absolute","top":  "unset","bottom":  "0","left":  "unset","right":  "0"}'            |
-|avatarWidth|`String`            | `'Width of avatar container can be passed in this prop as an string which can be of different units like px , % , etc.'`         |`"auto" or 100px"`
-|avatarHeight|`String`            | `'Height of avatar container can be passed in this prop as an string which can be of different units like px , % , etc.'`         |`"300px"`       
-|loadGlb|`String`            | `'GLB url can be passed here to load the avatar'`         |`"load_this_glb.url"` 
-|textQuery|`String`            | `'Text to speech query sholud be passed here'`         |`"Hello I am Dave. How are you Doing?"` |
+|daveStyle|`Object`            |`CSS styles can be passed in this prop as an object`            |'{"display":  "flex","flex-direction":  "column","align-items":  "center","justify-content":  "center","position":  "absolute","top":  "unset","bottom":  "0","left":  "unset","right":  "0"}'            |
+|avatarWidth|`String`            | `Width of avatar container can be passed in this prop as an string which can be of different units like px , % , etc.`         |`"auto" or 100px"`
+|avatarHeight|`String`            | `Height of avatar container can be passed in this prop as an string which can be of different units like px , % , etc.`         |`"300px"`       
+|loadGlb|`String`            | `GLB url can be passed here to load the avatar`         |`"load_this_glb.url"` 
+|textQuery|`String`            | `Text to speech query sholud be passed here`         |`"Hello I am Dave. How are you Doing?"` |
 
 
 
