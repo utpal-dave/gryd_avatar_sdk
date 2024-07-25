@@ -23,6 +23,7 @@ Can be used to add dave custom webiew iframe. Which will accept text query , glb
 |avatarWidth|`String`            | `Width of avatar container can be passed in this prop as an string which can be of different units like px , % , etc.`         |`"auto" or 100px"`
 |avatarHeight|`String`            | `Height of avatar container can be passed in this prop as an string which can be of different units like px , % , etc.`         |`"300px"`       
 |loadGlb|`String`            | `GLB url can be passed here to load the avatar`         |`"load_this_glb.url"` 
+|customFunctionCall|`Function`            | `Custom Function can be passed here as props which can be executed`         |`"() => {console.log('Sample Function Executed)}" else function name without parenthesis. Exa : sampleFunction where sampleFunction is a function name defined with a body` 
 |textQuery|`String`            | `Text to speech query sholud be passed here`         |`"Hello I am Dave. How are you Doing?"` |
 
 
